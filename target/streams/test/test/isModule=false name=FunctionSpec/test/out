@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mFunctionSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mmap2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match Success(1234) for parse "12" to int and parse "34" to int,with (a:Int,b:Int) => a.toString()+b.toString()[0m[0m
+[0m[[0minfo[0m] [0m[32minvert2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32minvert3[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32minvert4[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32muncurried2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m

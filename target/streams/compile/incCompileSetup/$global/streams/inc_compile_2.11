@@ -1,0 +1,1003 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+75 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$LoadData$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$LoadData$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert2$1$$anonfun$apply$10.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert2$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert3$1$$anonfun$apply$11$$anonfun$apply$12.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert3$1$$anonfun$apply$11.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert3$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1$$anonfun$apply$13$$anonfun$apply$14$$anonfun$apply$15.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1$$anonfun$apply$13$$anonfun$apply$14.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1$$anonfun$apply$13.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$lift$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$lift2$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$lift3$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map2$1$$anonfun$apply$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map2$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map3$1$$anonfun$apply$2$$anonfun$apply$3.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map3$1$$anonfun$apply$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map3$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried2$1$$anonfun$apply$16.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried2$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried3$1$$anonfun$apply$17.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried3$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeOperation$$anonfun$receive$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeOperation.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeSystem$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeSystem$delayedInit$body.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeSystem.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$$anonfun$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$$anonfun$GeneratePriceList$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$$anonfun$GeneratePriceList$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$$anonfun$findMax$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$$anonfun$findMin$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$$anonfun$findRate$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest$$anonfun$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest$delayedInit$body.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$1$$anonfun$apply$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$3.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$delayedInit$body.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$1$$anonfun$apply$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$3.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$delayedInit$body.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$$anonfun$1$$anonfun$apply$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$$anonfun$1.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$$anonfun$2.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$delayedInit$body.class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy.class
+binary dependencies:
+25 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.1.jar
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+75 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dataLoad.CsvReader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dataLoad.CsvReader$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dataLoad.CsvReader$$anonfun$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dataLoad.CsvReader$$anonfun$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dataLoad.CsvReader$$anonfun$LoadData$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dataLoad.CsvReader$$anonfun$LoadData$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert2$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert2$1$$anonfun$apply$10
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert3$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert3$1$$anonfun$apply$11
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert3$1$$anonfun$apply$11$$anonfun$apply$12
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert4$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert4$1$$anonfun$apply$13
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert4$1$$anonfun$apply$13$$anonfun$apply$14
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$invert4$1$$anonfun$apply$13$$anonfun$apply$14$$anonfun$apply$15
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$lift$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$lift2$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$lift3$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map2$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map2$1$$anonfun$apply$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map3$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map3$1$$anonfun$apply$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map3$1$$anonfun$apply$2$$anonfun$apply$3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map7$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map7$1$$anonfun$apply$4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$uncurried2$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$uncurried2$1$$anonfun$apply$16
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$uncurried3$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad.Function$$anonfun$uncurried3$1$$anonfun$apply$17
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> DealData.TradeOperation
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> DealData.TradeOperation$$anonfun$receive$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> DealData.TradeSystem
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> DealData.TradeSystem$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> DealData.TradeSystem$delayedInit$body
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.Transaction
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.Transaction$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.Transaction$$anonfun$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.Transaction$$anonfun$GeneratePriceList$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.Transaction$$anonfun$GeneratePriceList$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.maxmin
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.maxmin$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.maxmin$$anonfun$findMax$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.maxmin$$anonfun$findMin$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.maxmin$$anonfun$findRate$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.myTest
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.myTest$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.myTest$$anonfun$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData.myTest$delayedInit$body
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML.mlDT
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML.mlDT$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML.mlDT$$anonfun$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML.mlDT$$anonfun$1$$anonfun$apply$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML.mlDT$$anonfun$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML.mlDT$$anonfun$3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML.mlDT$delayedInit$body
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML.mlRF
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML.mlRF$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML.mlRF$$anonfun$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML.mlRF$$anonfun$1$$anonfun$apply$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML.mlRF$$anonfun$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML.mlRF$$anonfun$3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML.mlRF$delayedInit$body
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ML.mysecifiy
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ML.mysecifiy$
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ML.mysecifiy$$anonfun$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ML.mysecifiy$$anonfun$1$$anonfun$apply$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ML.mysecifiy$$anonfun$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ML.mysecifiy$delayedInit$body
+used names:
+640 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> <init>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> <repeated>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> ==
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> A
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Any
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> AnyRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Array
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> B
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Boolean
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> CanBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> ClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Coll
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> CsvReader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> DataFrame
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> DataFrameReader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> DataType
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Double
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> DoubleType
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Function1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> IntegerType
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> LabeledPoint
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> MatchError
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Metadata
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Nothing
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Object
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Predef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> RDD
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Row
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> SQLContext
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Seq
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> SparkConf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> SparkContext
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> String
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> StructField
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> StructType
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> T
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> T0
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> T1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> T2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> That
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Tuple2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> U
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Vector
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> Vectors
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> _$7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> _2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> apache
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> apply
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> asInstanceOf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> canBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> collection
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> conf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> convertToArray
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> csvInput
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dataLoad
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> dense
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> doubleCheck
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> fileName
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> format
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> head
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> inputschema
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> item
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> linalg
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> load
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> materializeClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> mllib
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> n
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> ne
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> option
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> org
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> package
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> rdd
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> read
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> regression
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> rowdata
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> rowseq
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> sc
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> schema
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> select
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> selectedData
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> seq
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> seqDouble
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> setAppName
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> setMaster
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> spark
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> sql
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> sqlContext
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> tail
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> toArray
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> toSeq
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> types
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> unchecked
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> x
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> <init>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Any
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> AnyRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Function
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Function1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Function2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Function3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Function7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Nothing
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Object
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> R
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T5
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T6
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> T7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> Try
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> U
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> _root_
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> a
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> apply
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> b
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> c
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> dataLoad
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> f
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> flatMap
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> k
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> map2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> map3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t1y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t2y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t3y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t4y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t5y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t6y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> t7y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> util
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x5
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x6
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> x7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> z
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> !
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> <init>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> <repeated>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> A
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> A1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> AbstractPartialFunction
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Actor
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> ActorRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> ActorSystem
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Any
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> App
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> B
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> B1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Boolean
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> ClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> DealData
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Double
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Function1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Function2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Int
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> List
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Nothing
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Object
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Predef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Props
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> ScalaActorRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> String
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> T
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> T0
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> TradeActor
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> TradeOperation
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> TradeSystem
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> Unit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> _$7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> a
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> actor
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> actorOf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> actorRef2Scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> akka
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> apply
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> asInstanceOf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> findMax
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> findMin
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> immutable
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> materializeClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> maxP
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> maxmin
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> minP
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> package
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> println
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> qual$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> qual$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> qual$3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> qual$4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> qual$5
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> reduceLeft
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> system
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> unchecked
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$10
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$3
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$5
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$6
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$8
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> x$9
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> *
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> +
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> -
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> /
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> <byname>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> <init>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> A
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Any
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> AnyRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> App
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Array
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> ArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> B
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> BufferedSource
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> CanBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Codec
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Coll
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> DealData
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Double
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Function1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Function2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> GaussianGenerator
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> GeneratePriceList
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Int
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> List
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Nothing
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Object
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Predef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Random
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Range
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> RichDouble
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> RichInt
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Seq
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Source
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Stream
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> String
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> StringOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> T
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> That
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Transaction
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> U
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> Unit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> WrappedArray
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> apply
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> augmentString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> bb
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> canBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> cc
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> continually
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> countNumber
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> doubleWrapper
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> fallbackSystemCodec
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> fileName
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> foreach
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> fromFile
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> fromURL
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> getBasicStockValue
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> getPrice
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> getTickerSymbol
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> i
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> immutable
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> intWrapper
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> io
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> length
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> math
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> max
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> maxmin
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> min
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> mkString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> myTest
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> n
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> nextGaussian
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> package
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> price
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> println
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> rawdata2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> refArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> replaceAll
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> split
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> ss
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> ssk
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> st
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> symbol
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> synbol
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> take
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> toDouble
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> toList
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> until
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> util
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> wrapRefArray
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> x
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> y
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> !=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> +
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> /
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> <init>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> <repeated>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> A
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Any
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> AnyRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> App
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Array
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> B
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Boolean
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> CanBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> CsvReader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> DecisionTree
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> DecisionTreeModel
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Double
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Function1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Int
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> LabeledPoint
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Long
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ML
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> MLUtils
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> MatchError
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Nothing
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Object
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Predef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> RDD
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> SparkConf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> SparkContext
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> String
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> StringOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> T
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> T1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> T2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> That
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Tuple2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> U
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Unit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Vector
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> Vectors
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> _$4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> _$7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> _1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> _2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> apache
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> apply
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> augmentString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> canBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> categoricalFeaturesInfo
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> conf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> count
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> data
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> dataLoad
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> dense
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> features
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> filter
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> impurity
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> label
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> labelAndPreds
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> linalg
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> line
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> load
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> materializeClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> maxBins
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> maxDepth
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> mlDT
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> mllib
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> model
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> ne
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> numClasses
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> org
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> package
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> parts
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> point
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> predict
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> prediction
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> print
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> println
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> r
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> randomSplit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> reader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> refArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> regression
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> sameModel
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> save
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> sc
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> setAppName
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> setMaster
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> slice
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> spark
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> split
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> splits
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> testData
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> testErr
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> textFile
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> toDebugString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> toDouble
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> toString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> trainClassifier
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> trainingData
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> tree
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> unchecked
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> util
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> x
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> !=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> +
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> /
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> <init>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> <repeated>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> A
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Any
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> AnyRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> App
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Array
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> B
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Boolean
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> CanBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Double
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Function1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Int
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> LabeledPoint
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Long
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ML
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> MLUtils
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> MatchError
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Nothing
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Object
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Predef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> RDD
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> RandomForest
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> RandomForestModel
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> SparkConf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> SparkContext
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> String
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> StringOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> T
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> T1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> T2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> That
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Tuple2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> U
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Unit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Vector
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> Vectors
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> _$4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> _$7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> _1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> _2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> apache
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> apply
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> augmentString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> canBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> categoricalFeaturesInfo
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> conf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> count
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> data
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> dense
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> featureSubsetStrategy
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> features
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> filter
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> impurity
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> label
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> labelAndPreds
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> linalg
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> line
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> load
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> materializeClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> maxBins
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> maxDepth
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> mlRF
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> mllib
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> model
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> ne
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> numClasses
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> numTrees
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> org
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> package
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> parts
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> point
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> predict
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> prediction
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> println
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> r
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> randomSplit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> reader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> refArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> regression
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> sameModel
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> save
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> sc
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> setAppName
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> setMaster
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> slice
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> source
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> spark
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> split
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> splits
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> testData
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> testErr
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> textFile
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> toDebugString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> toDouble
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> trainClassifier
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> trainingData
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> tree
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> unchecked
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> util
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> x
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> <init>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> <repeated>
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Any
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> AnyRef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> App
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Array
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> B
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Boolean
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> CanBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Class
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> CsvReader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Double
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Function1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Int
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> LabeledPoint
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> LogisticRegressionModel
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> LogisticRegressionWithLBFGS
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Long
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ML
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> MLUtils
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> MatchError
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Matrix
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> MulticlassMetrics
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Nothing
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Object
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Predef
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> RDD
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> SparkConf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> SparkContext
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> String
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> StringContext
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> StringOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> T
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> T1
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> T2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> That
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Tuple2
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> U
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Unit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Vector
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> Vectors
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> _$4
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> _$7
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> accuracy
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> apache
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> apply
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> augmentString
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> cache
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> canBuildFrom
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> classification
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> conf
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> confusionMatrix
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> data
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> dataLoad
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> dense
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> evaluation
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> features
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> label
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> linalg
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> line
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> load
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> map
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> materializeClassTag
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> metrics
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> mllib
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> model
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> mysecifiy
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> ne
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> org
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> package
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> parts
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> precision
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> predict
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> prediction
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> predictionAndLabels
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> println
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> randomSplit
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> reader
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> refArrayOps
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> regression
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> run
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> s
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> sameModel
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> save
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> sc
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> scala
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> setAppName
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> setMaster
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> setNumClasses
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> slice
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> source
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> spark
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> split
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> splits
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> test
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> textFile
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> toDouble
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> training
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> util
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> weight
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> x
+product stamps:
+75 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$1.class -> lastModified(1481681066017)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$2.class -> lastModified(1481681066026)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$LoadData$1.class -> lastModified(1481681066034)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$$anonfun$LoadData$2.class -> lastModified(1481681066043)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader$.class -> lastModified(1481681066009)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\CsvReader.class -> lastModified(1481681065998)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert2$1$$anonfun$apply$10.class -> lastModified(1481681066095)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert2$1.class -> lastModified(1481681066086)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert3$1$$anonfun$apply$11$$anonfun$apply$12.class -> lastModified(1481681066122)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert3$1$$anonfun$apply$11.class -> lastModified(1481681066112)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert3$1.class -> lastModified(1481681066103)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1$$anonfun$apply$13$$anonfun$apply$14$$anonfun$apply$15.class -> lastModified(1481681066157)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1$$anonfun$apply$13$$anonfun$apply$14.class -> lastModified(1481681066148)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1$$anonfun$apply$13.class -> lastModified(1481681066140)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$invert4$1.class -> lastModified(1481681066131)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$lift$1.class -> lastModified(1481681066167)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$lift2$1.class -> lastModified(1481681066176)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$lift3$1.class -> lastModified(1481681066185)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map2$1$$anonfun$apply$1.class -> lastModified(1481681066201)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map2$1.class -> lastModified(1481681066193)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map3$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1481681066226)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map3$1$$anonfun$apply$2.class -> lastModified(1481681066218)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map3$1.class -> lastModified(1481681066210)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9.class -> lastModified(1481681066288)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class -> lastModified(1481681066276)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1481681066268)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1481681066260)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1481681066252)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1$$anonfun$apply$4.class -> lastModified(1481681066243)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$map7$1.class -> lastModified(1481681066234)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried2$1$$anonfun$apply$16.class -> lastModified(1481681066305)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried2$1.class -> lastModified(1481681066297)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried3$1$$anonfun$apply$17.class -> lastModified(1481681066325)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$$anonfun$uncurried3$1.class -> lastModified(1481681066314)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function$.class -> lastModified(1481681066076)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\dataLoad\Function.class -> lastModified(1481681066058)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$$anonfun$findMax$1.class -> lastModified(1481681065687)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$$anonfun$findMin$1.class -> lastModified(1481681065695)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$$anonfun$findRate$1.class -> lastModified(1481681065702)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin$.class -> lastModified(1481681065678)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\maxmin.class -> lastModified(1481681065671)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest$$anonfun$2.class -> lastModified(1481681065731)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest$.class -> lastModified(1481681065724)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest$delayedInit$body.class -> lastModified(1481681065738)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\myTest.class -> lastModified(1481681065711)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeOperation$$anonfun$receive$1.class -> lastModified(1481681065560)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeOperation.class -> lastModified(1481681065542)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeSystem$.class -> lastModified(1481681065604)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeSystem$delayedInit$body.class -> lastModified(1481681065613)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\TradeSystem.class -> lastModified(1481681065578)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$$anonfun$1.class -> lastModified(1481681065649)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$$anonfun$GeneratePriceList$1.class -> lastModified(1481681065657)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$$anonfun$GeneratePriceList$2.class -> lastModified(1481681065665)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction$.class -> lastModified(1481681065640)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\DealData\Transaction.class -> lastModified(1481681065623)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$1$$anonfun$apply$1.class -> lastModified(1481681065794)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$1.class -> lastModified(1481681065783)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$2.class -> lastModified(1481681065806)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$$anonfun$3.class -> lastModified(1481681065815)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$.class -> lastModified(1481681065773)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT$delayedInit$body.class -> lastModified(1481681065824)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlDT.class -> lastModified(1481681065750)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$1$$anonfun$apply$1.class -> lastModified(1481681065882)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$1.class -> lastModified(1481681065872)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$2.class -> lastModified(1481681065892)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$$anonfun$3.class -> lastModified(1481681065902)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$.class -> lastModified(1481681065862)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF$delayedInit$body.class -> lastModified(1481681065912)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mlRF.class -> lastModified(1481681065835)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$$anonfun$1$$anonfun$apply$1.class -> lastModified(1481681065971)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$$anonfun$1.class -> lastModified(1481681065963)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$$anonfun$2.class -> lastModified(1481681065981)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$.class -> lastModified(1481681065944)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy$delayedInit$body.class -> lastModified(1481681065987)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\target\scala-2.11\classes\ML\mysecifiy.class -> lastModified(1481681065922)
+source stamps:
+7 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> hash(9ee8d740b5527ecef191096ebab2c2935f54e0dd)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> hash(4b210001a8f5b46515ffebf2f3923c76a6c76194)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> hash(2138919e030b8e2ec052c0f4e8a98a2eb500aae4)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> hash(320f9bfcb491a9151c678141374ffcb3eb3c8904)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> hash(494dfd4c11fd60a489a727065f1343da81cdcc03)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> hash(677d49a972e4649aa9d007a19305d2c80a93c0f0)
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> hash(2b668c8c2f470fa222d7a661db60b3aee83ad084)
+binary stamps:
+7 items
+C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar -> lastModified(1454607396372)
+C:\Users\Chang Yu\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar -> lastModified(1431096300000)
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-1.6.1.jar -> lastModified(1457654373000)
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar -> lastModified(1457641176000)
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.1.jar -> lastModified(1457655989000)
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-1.6.1.jar -> lastModified(1457654364000)
+C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457496963000)
+class names:
+7 items
+C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Chang Yu\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar -> akka.actor.Actor
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-1.6.1.jar -> org.apache.spark.sql.types.StructField$
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar -> org.apache.spark.SparkContext$
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.1.jar -> org.apache.spark.mllib.linalg.Vectors
+C:\Users\Chang Yu\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-1.6.1.jar -> org.apache.spark.sql.DataFrame
+C:\Users\Chang Yu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Function3
+internal apis:
+7 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwx8GlYQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwB5nnCHQABm5vdGlmeXNxAH4ADDFLdcF0AAhMb2FkRGF0YXNxAH4ADKOsnBR0AAR3YWl0c3EAfgAMueIe7HQADSRhc0luc3RhbmNlT2ZzcQB+AAzfz1UpdAAGZXF1YWxzc3EAfgAMjLtAQnQACUNzdlJlYWRlcnNxAH4ADO6U+nV0AAxhc0luc3RhbmNlT2ZzcQB+AAxHUqx3dAAMc3luY2hyb25pemVkc3EAfgAMYSCLBnQADSRpc0luc3RhbmNlT2ZzcQB+AAwWXDJjdAAJbm90aWZ5QWxsc3EAfgAMfJ1NWnQADGlzSW5zdGFuY2VPZnNxAH4ADIGgfT90AA5jb252ZXJ0VG9BcnJheXNxAH4ADIm8OtZ0AAI9PXNxAH4ADCq16ed0AAVjbG9uZXNxAH4ADJ5jzwl0AAh0b1N0cmluZ3NxAH4ADLIhBXl0AAIhPXNxAH4ADLGgfnd0AAhnZXRDbGFzc3NxAH4ADOof0Dt0AAJuZXNxAH4ADJI6uJd0AAJlcXNxAH4ADJ1dFn90AAIjI3NxAH4ADArpB2B0AAhmaW5hbGl6ZXNxAH4ADHFsUNh0AAhoYXNoQ29kZXNxAH4ADPMwJLB0AAtkb3VibGVDaGVja3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJkYXRhTG9hZC5Dc3ZSZWFkZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGRhdGFMb2Fkc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY+xKeyXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZDOlxVc2Vyc1xDaGFuZyBZdVxEcm9wYm94XFNjYWxhXEZpbmFsUHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUnujXQLVSfs7xkQluurLCk19U4N0=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDZkW4QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLxUHZXQABm5vdGlmeXNxAH4ADEbS+P10AARtYXA3c3EAfgAMCmjvrnQABHdhaXRzcQB+AAyrGuU0dAAIRnVuY3Rpb25zcQB+AAy5P+QgdAANJGFzSW5zdGFuY2VPZnNxAH4ADOchca50AAp1bmN1cnJpZWQzc3EAfgAMtO/ISXQABmVxdWFsc3NxAH4ADFS5ICR0AAVsaWZ0M3NxAH4ADMp6wWJ0AAdpbnZlcnQ0c3EAfgAM+fDfjHQADGFzSW5zdGFuY2VPZnNxAH4ADPaM3r90AAxzeW5jaHJvbml6ZWRzcQB+AAxJbEWQdAANJGlzSW5zdGFuY2VPZnNxAH4ADO3QTft0AAp1bmN1cnJpZWQyc3EAfgAM6aH7DHQACW5vdGlmeUFsbHNxAH4ADL5WJgB0AAxpc0luc3RhbmNlT2ZzcQB+AAyzb3TWdAAEbWFwM3NxAH4ADLF5V3V0AAdpbnZlcnQyc3EAfgAMpSNJHXQAAj09c3EAfgAMKlOWzXQABWNsb25lc3EAfgAMiwsRanQACHRvU3RyaW5nc3EAfgAM4JRmEHQAAiE9c3EAfgAMaUgKUXQACGdldENsYXNzc3EAfgAMwukwRHQABG1hcDJzcQB+AAyXZYMNdAACbmVzcQB+AAwazl9cdAAHaW52ZXJ0M3NxAH4ADAiKN210AARsaWZ0c3EAfgAMRLTt83QAAmVxc3EAfgAMGdjBKXQABWxpZnQyc3EAfgAMW8csn3QAAiMjc3EAfgAMwuxmnXQACGZpbmFsaXplc3EAfgAM2sT0x3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEWRhdGFMb2FkLkZ1bmN0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AcnNxAH4AbXVxAH4AUAAAAABzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCKdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+dAADQW55c3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinQABXNjYWxhcQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhkYXRhTG9hZHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPsSnsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEshAAGo9bRlFf/r8vOSPHamx2GU
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjXQWxAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHC01is2dAAEc2VsZnNxAH4ACyrOpdV0AAdjb250ZXh0dXEAfgAJAAAALnNxAH4AC/WoaEB0AAZub3RpZnlzcQB+AAvi4iR6dAAHUmVjZWl2ZXNxAH4AC1wLCTp0AAR3YWl0c3EAfgAL/gwmcHQADSRhc0luc3RhbmNlT2ZzcQB+AAvqgT6edAAGc3lzdGVtc3EAfgALC0RTX3QABmVxdWFsc3NxAH4AC5LZhdJ0AAxhc0luc3RhbmNlT2ZzcQB+AAu3LZoidAAOZXhlY3V0aW9uU3RhcnRzcQB+AAucrzR/dAAMc3luY2hyb25pemVkc3EAfgALInWTLHQAAWFzcQB+AAtgcAnfdAANJGlzSW5zdGFuY2VPZnNxAH4AC8r1HpR0AAdyZWNlaXZlc3EAfgALctxto3QACnByZVJlc3RhcnRzcQB+AAvCxSUXdAAKVHJhZGVBY3RvcnNxAH4AC1fUbpx0AA1hcm91bmRSZWNlaXZlc3EAfgALk3jflXQAC3Bvc3RSZXN0YXJ0c3EAfgALh+TedHQABG1haW5zcQB+AAuD7NPkdAAIcG9zdFN0b3BzcQB+AAtxyg2vdAAJbm90aWZ5QWxsc3EAfgALN7T9VHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALIZxdB3QADGlzSW5zdGFuY2VPZnNxAH4ACzsfIkJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALcZlX4XQADmFyb3VuZFBvc3RTdG9wc3EAfgALvstHGHQABjxpbml0PnNxAH4AC55KKth0AAhwcmVTdGFydHNxAH4ACxpA0Vd0AAl1bmhhbmRsZWRzcQB+AAuiL4tddAACPT1zcQB+AAvvtv4UdAAFY2xvbmVzcQB+AAt5uoDVdAAEbWluUHNxAH4ACywdpSx0AAYkaW5pdCRzcQB+AAvq2jOKdAAGc2VuZGVyc3EAfgALBAiyRXQACHRvU3RyaW5nc3EAfgALpvboN3QABGFyZ3NzcQB+AAsMijSNdAALVHJhZGVTeXN0ZW1zcQB+AAvw2ZGydAACIT1zcQB+AAshd41XdAAIZ2V0Q2xhc3NzcQB+AAvDa1F4dAAEbWF4UHNxAH4AC1fSHmV0AAJuZXNxAH4AC4JpMSB0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAvq+LCCdAACZXFzcQB+AAvbooK/dAALZGVsYXllZEluaXRzcQB+AAsaEu2vdAACIyNzcQB+AAtsuyd6dAAIZmluYWxpemVzcQB+AAvSaq9ldAAIaGFzaENvZGVzcQB+AAvst0mHdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAv0L/MVdAAOVHJhZGVPcGVyYXRpb25zcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAXRGVhbERhdGEuVHJhZGVPcGVyYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Aj3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB3TAAJaW5oZXJpdGVkcQB+AHdMAAdwYXJlbnRzcQB+AHd4cQB+AJRzcQB+AI91cQB+AHIAAAAAc3EAfgCPdXEAfgByAAAAAHNxAH4Aj3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ak3QABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCTc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCsdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArXNxAH4AoHQABk9iamVjdHNxAH4ApHNxAH4Ap3VxAH4AqgAAAANzcQB+AKx0AARqYXZhc3EAfgCsdAAEbGFuZ3EAfgCzc3EAfgCgdAADQW55c3EAfgCkc3EAfgCndXEAfgCqAAAAAnNxAH4ArHQABXNjYWxhcQB+ALNzcQB+AHRxAH4AgXVxAH4AggAAAABzcQB+AIQAdAAURGVhbERhdGEuVHJhZGVTeXN0ZW11cQB+AIcAAAAAfnEAfgCJdAAGTW9kdWxldXEAfgCNAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4Aj3EAfgCVc3EAfgCPc3EAfgCXc3EAfgCPdXEAfgByAAAAAHNxAH4Aj3VxAH4AcgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AeHEAfgCBdXEAfgCCAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A1nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AKB0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4ApHNxAH4Ap3VxAH4AqgAAAAJzcQB+AKxxAH4Aw3EAfgCzc3EAfgCEAHEAfgAzdXEAfgCHAAAAAHNxAH4AoHQABFVuaXRxAH4A5XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+ANZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIp0AAVQbGFpbnEAfgBTc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgChWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCTc3EAfgCgdAAFQXJyYXlxAH4A5XVxAH4AngAAAAFzcQB+AKB0AAZTdHJpbmdzcQB+AKRzcQB+AKd1cQB+AKoAAAADc3EAfgCscQB+ALpzcQB+AKxxAH4AvHEAfgCzc3EAfgCPdXEAfgCeAAAABHNxAH4AoHQAA0FwcHEAfgDlc3EAfgCgdAALRGVsYXllZEluaXRxAH4A5XNxAH4AoHEAfgC1cQB+AQJzcQB+AKBxAH4AvnEAfgDldXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAIRGVhbERhdGFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVj7Ep7JdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARkM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQhOJGeAwuOLsBSwPToqYoutQCq5A==
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdQ6g+QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwa+DcJ3QABm5vdGlmeXNxAH4ADPB+tR90AAJzc3NxAH4ADGmFFjt0AAJzdHNxAH4ADIGR+Dd0AAhmaW5kUmF0ZXNxAH4ADAuN76R0AAZtYXhtaW5zcQB+AAyOFGFYdAAEd2FpdHNxAH4ADIRHrt50AAtUcmFuc2FjdGlvbnNxAH4ADLpmlLZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaNYou3QAC2NvdW50TnVtYmVyc3EAfgAMF+sf0XQABmVxdWFsc3NxAH4ADKI6k8x0ABFHYXVzc2lhbkdlbmVyYXRvcnNxAH4ADEwQoEx0AAxhc0luc3RhbmNlT2ZzcQB+AAzhlsvydAAOZXhlY3V0aW9uU3RhcnRzcQB+AAyXF/dvdAAMc3luY2hyb25pemVkc3EAfgAMV97f4nQADSRpc0luc3RhbmNlT2ZzcQB+AAzuyViMdAAHZmluZE1heHNxAH4ADFOd8Zx0ABJnZXRCYXNpY1N0b2NrVmFsdWVzcQB+AAw8AbZYdAAEbWFpbnNxAH4ADIPLMHh0AA9nZXRUaWNrZXJTeW1ib2xzcQB+AAyBpXxNdAAJbm90aWZ5QWxsc3EAfgAM9fdctHQADGlzSW5zdGFuY2VPZnNxAH4ADHSrgaZ0AAhnZXRQcmljZXNxAH4ADJ44lvx0AAI9PXNxAH4ADNklOut0AAVjbG9uZXNxAH4ADJ4WMdZ0AAYkaW5pdCRzcQB+AAwG0SqPdAAIdG9TdHJpbmdzcQB+AAxrEpMOdAAEYXJnc3NxAH4ADCcpMG10AAJjY3NxAH4ADPeTK0p0AAIhPXNxAH4ADE212xZ0ABFHZW5lcmF0ZVByaWNlTGlzdHNxAH4ADHwoKhB0AAhnZXRDbGFzc3NxAH4ADMA6jyF0AAZteVRlc3RzcQB+AAxvjrMSdAACYmJzcQB+AAykshsUdAACbmVzcQB+AAyHDrH7dAAHZmluZE1pbnNxAH4ADPzo0GZ0AAJlcXNxAH4ADHDOfe90AAtkZWxheWVkSW5pdHNxAH4ADP+S3/l0AAIjI3NxAH4ADK4tmcJ0AAhmaW5hbGl6ZXNxAH4ADA+sGlt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABREZWFsRGF0YS5UcmFuc2FjdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Af3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIRzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AnHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AkHQAA0FueXNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJx0AAVzY2FsYXEAfgCjc3EAfgBkcQB+AHF1cQB+AHIAAAAAc3EAfgB0AHQAD0RlYWxEYXRhLm1heG1pbnVxAH4AdwAAAABxAH4Ae3VxAH4AfQAAAABzcQB+AH9xAH4AhXNxAH4Af3NxAH4Ah3NxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgCOAAAAAnNxAH4AkHEAfgCTc3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHEAfgCfc3EAfgCccQB+AKFxAH4Ao3NxAH4AkHEAfgClc3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHEAfgCqcQB+AKNzcQB+AGRxAH4AcXVxAH4AcgAAAABzcQB+AHQAdAAPRGVhbERhdGEubXlUZXN0dXEAfgB3AAAAAHEAfgB7dXEAfgB9AAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4Af3EAfgCFc3EAfgB/c3EAfgCHc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AYgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AaHEAfgBxdXEAfgByAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A1XhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJB0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4AqnEAfgCjc3EAfgB0AHEAfgAxdXEAfgB3AAAAAHNxAH4AkHQABFVuaXRxAH4A5HVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ANV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHp0AAVQbGFpbnEAfgBDc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCRWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCDc3EAfgCQdAAFQXJyYXlxAH4A5HVxAH4AjgAAAAFzcQB+AJB0AAZTdHJpbmdzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AJ9zcQB+AJxxAH4AoXEAfgCjc3EAfgB/dXEAfgCOAAAABHNxAH4AkHQAA0FwcHEAfgDkc3EAfgCQdAALRGVsYXllZEluaXRxAH4A5HNxAH4AkHEAfgCTcQB+AQFzcQB+AJBxAH4ApXEAfgDkdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIRGVhbERhdGFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVj7Ep7JdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARkM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQyD5v8tJGpFRxngUE3T/yz6zyJBA==
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwV2r6vAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7ACMlXQABm5vdGlmeXNxAH4ADLc/94p0AAR3YWl0c3EAfgAMXcNEv3QADSRhc0luc3RhbmNlT2ZzcQB+AAzwjEkHdAAFbW9kZWxzcQB+AAzxDoJXdAAGcmVhZGVyc3EAfgAMMDUwznQABmVxdWFsc3NxAH4ADLsDzVh0AAx0cmFpbmluZ0RhdGFzcQB+AAxgJNuedAAMYXNJbnN0YW5jZU9mc3EAfgAMm3FzkXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMPazKBnQABGRhdGFzcQB+AAxtmswtdAAHdGVzdEVycnNxAH4ADKPHK1R0AAxzeW5jaHJvbml6ZWRzcQB+AAwsuq/SdAAIaW1wdXJpdHlzcQB+AAzjZt7NdAACc2NzcQB+AAyMwhX1dAANJGlzSW5zdGFuY2VPZnNxAH4ADNZr9Kp0AAhtYXhEZXB0aHNxAH4ADK7lk/d0AARtYWluc3EAfgAMdNEae3QACW5vdGlmeUFsbHNxAH4ADKiUDch0AARjb25mc3EAfgAM3dHMd3QADWxhYmVsQW5kUHJlZHNzcQB+AAxGPaUedAAXY2F0ZWdvcmljYWxGZWF0dXJlc0luZm9zcQB+AAxnobucdAAMaXNJbnN0YW5jZU9mc3EAfgAMchKN0HQABG1sRFRzcQB+AAxiq0iqdAAGc3BsaXRzc3EAfgAMzEmeq3QACHRlc3REYXRhc3EAfgAM1LSAZXQAAj09c3EAfgAM5eI+bnQABWNsb25lc3EAfgAMKsMUhXQABiRpbml0JHNxAH4ADNAOJOR0AAdtYXhCaW5zc3EAfgAMrVtBsXQACHRvU3RyaW5nc3EAfgAMXwnmdHQABGFyZ3NzcQB+AAzWmifVdAACIT1zcQB+AAz35LmGdAAIZ2V0Q2xhc3NzcQB+AAz61JxIdAAJc2FtZU1vZGVsc3EAfgAM/1mwnHQAAm5lc3EAfgAMWlJTD3QAAmVxc3EAfgAM0rPKP3QAC2RlbGF5ZWRJbml0c3EAfgAMHDpLUnQAAiMjc3EAfgAMtZOq43QACGZpbmFsaXplc3EAfgAMGr+YFnQACGhhc2hDb2Rlc3EAfgAMwuMSCHQACm51bUNsYXNzZXNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAHTUwubWxEVHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ag3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIhzcQB+AIN1cQB+AGQAAAAAc3EAfgCDdXEAfgBkAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBqcQB+AHN1cQB+AHQAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCSeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AId0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ah3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArHNxAH4AdgBxAH4AL3VxAH4AeQAAAABzcQB+AJ90AARVbml0cQB+AKV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCSeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB8dAAFUGxhaW5xAH4AS3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AoFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ah3NxAH4An3QABUFycmF5cQB+AKV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4An3QABlN0cmluZ3NxAH4Ao3NxAH4ApnVxAH4AqQAAAANzcQB+AKt0AARqYXZhc3EAfgCrdAAEbGFuZ3EAfgCwc3EAfgCDdXEAfgDHAAAABHNxAH4An3QAA0FwcHEAfgClc3EAfgCfdAALRGVsYXllZEluaXRxAH4ApXNxAH4An3QABk9iamVjdHEAfgDLc3EAfgCfdAADQW55cQB+AKV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJNTHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPsSnsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFElN/UwR/WCkiacnBl8TQ9qBzcwD
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbKIKXQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwT/mUh3QABG1sUkZzcQB+AAy+Bo1xdAAGbm90aWZ5c3EAfgAMsJgsbHQABnNvdXJjZXNxAH4ADDdKUeN0AAR3YWl0c3EAfgAMOFEexnQADSRhc0luc3RhbmNlT2ZzcQB+AAzzhUwvdAAFbW9kZWxzcQB+AAzS9fjvdAAGcmVhZGVyc3EAfgAM2WsnhXQABmVxdWFsc3NxAH4ADKe9Xy10AAx0cmFpbmluZ0RhdGFzcQB+AAy7thSldAAMYXNJbnN0YW5jZU9mc3EAfgAMjKdtrHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMohQtLHQABGRhdGFzcQB+AAwkWx9adAAHdGVzdEVycnNxAH4ADOb8C5V0AAxzeW5jaHJvbml6ZWRzcQB+AAweSJgIdAAIaW1wdXJpdHlzcQB+AAy5ZZ4kdAACc2NzcQB+AAxGFy3SdAANJGlzSW5zdGFuY2VPZnNxAH4ADJMof210AAhtYXhEZXB0aHNxAH4ADGHzMUB0AARtYWluc3EAfgAMDHyOV3QACW5vdGlmeUFsbHNxAH4ADFPWKo90AARjb25mc3EAfgAM7asLwnQADWxhYmVsQW5kUHJlZHNzcQB+AAwhcGRhdAAVZmVhdHVyZVN1YnNldFN0cmF0ZWd5c3EAfgAMQJ6ZJ3QAF2NhdGVnb3JpY2FsRmVhdHVyZXNJbmZvc3EAfgAM+edGNXQADGlzSW5zdGFuY2VPZnNxAH4ADJBaBFV0AAZzcGxpdHNzcQB+AAzsEcgBdAAIdGVzdERhdGFzcQB+AAyiWLlHdAACPT1zcQB+AAy8y7uGdAAFY2xvbmVzcQB+AAyIMVejdAAGJGluaXQkc3EAfgAMS3xmqHQAB21heEJpbnNzcQB+AAwBdAfudAAIdG9TdHJpbmdzcQB+AAx/BKlmdAAEYXJnc3NxAH4ADHDbf9N0AAIhPXNxAH4ADAQqrtt0AAhnZXRDbGFzc3NxAH4ADG+eDRl0AAlzYW1lTW9kZWxzcQB+AAyJqE+wdAACbmVzcQB+AAzTcanmdAAIbnVtVHJlZXNzcQB+AAyqFsTUdAACZXFzcQB+AAxhlgnhdAALZGVsYXllZEluaXRzcQB+AAw2F7LadAACIyNzcQB+AAxmmjM1dAAIZmluYWxpemVzcQB+AAxCRN1DdAAIaGFzaENvZGVzcQB+AAzBIZIXdAAKbnVtQ2xhc3Nlc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AAdNTC5tbFJGdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG9MAAlpbmhlcml0ZWRxAH4Ab0wAB3BhcmVudHNxAH4Ab3hxAH4AjnNxAH4AiXVxAH4AagAAAABzcQB+AIl1cQB+AGoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AHBxAH4AeXVxAH4AegAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AJh4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCNc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCyc3EAfgB8AHEAfgAzdXEAfgB/AAAAAHNxAH4ApXQABFVuaXRxAH4Aq3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AJh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIJ0AAVQbGFpbnEAfgBPc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCmWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCNc3EAfgCldAAFQXJyYXlxAH4Aq3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCldAAGU3RyaW5nc3EAfgCpc3EAfgCsdXEAfgCvAAAAA3NxAH4AsXQABGphdmFzcQB+ALF0AARsYW5ncQB+ALZzcQB+AIl1cQB+AM0AAAAEc3EAfgCldAADQXBwcQB+AKtzcQB+AKV0AAtEZWxheWVkSW5pdHEAfgCrc3EAfgCldAAGT2JqZWN0cQB+ANFzcQB+AKV0AANBbnlxAH4Aq3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAk1Mc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY+xKeyXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZDOlxVc2Vyc1xDaGFuZyBZdVxEcm9wYm94XFNjYWxhXEZpbmFsUHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZ31JqXLkZJqp0AehkwXSyAqTwPA=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5K4HqAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAnc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDXkqsHQABm5vdGlmeXNxAH4ADPLSBt10AAZ3ZWlnaHRzcQB+AAyrA2++dAAEdGVzdHNxAH4ADFUHKyJ0ABNwcmVkaWN0aW9uQW5kTGFiZWxzc3EAfgAMIj0XEHQABnNvdXJjZXNxAH4ADIQgttx0AAR3YWl0c3EAfgAMpgAXOXQADSRhc0luc3RhbmNlT2ZzcQB+AAwkTlqddAAFbW9kZWxzcQB+AAymj02rdAAJbXlzZWNpZml5c3EAfgAMiMLaInQABnJlYWRlcnNxAH4ADI6l9wd0AAZlcXVhbHNzcQB+AAzFzt9xdAAMYXNJbnN0YW5jZU9mc3EAfgAMB3xbUXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMxUjOzXQABGRhdGFzcQB+AAwXmxJwdAAIYWNjdXJhY3lzcQB+AAxfuqfldAAMc3luY2hyb25pemVkc3EAfgAM+8I3+HQAAnNjc3EAfgAMG6muLnQADSRpc0luc3RhbmNlT2ZzcQB+AAx/3CTxdAAIdHJhaW5pbmdzcQB+AAw8NZqpdAAEbWFpbnNxAH4ADD9nNTt0AAlub3RpZnlBbGxzcQB+AAyr3EYQdAAEY29uZnNxAH4ADH0fHTh0AAxpc0luc3RhbmNlT2ZzcQB+AAwsF6ajdAAGc3BsaXRzc3EAfgAMt5eWpXQAAj09c3EAfgAMiM7ze3QABWNsb25lc3EAfgAMr3DTZXQABiRpbml0JHNxAH4ADBaS/7t0AAh0b1N0cmluZ3NxAH4ADJIHVcp0AARhcmdzc3EAfgAMtVwTNHQAB21ldHJpY3NzcQB+AAw8xX/6dAACIT1zcQB+AAw81gxQdAAIZ2V0Q2xhc3NzcQB+AAy8hMsMdAAJc2FtZU1vZGVsc3EAfgAM2BBnTXQAAm5lc3EAfgAMd+KTa3QAAmVxc3EAfgAMOD6GUXQAC2RlbGF5ZWRJbml0c3EAfgAMVzSr0HQAAiMjc3EAfgAMu+t8fnQACGZpbmFsaXplc3EAfgAMqVo+sHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADE1MLm15c2VjaWZpeXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Af3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBlTAAJaW5oZXJpdGVkcQB+AGVMAAdwYXJlbnRzcQB+AGV4cQB+AIRzcQB+AH91cQB+AGAAAAAAc3EAfgB/dXEAfgBgAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBmcQB+AG91cQB+AHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCOeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIN0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AqHNxAH4AcgBxAH4ANXVxAH4AdQAAAABzcQB+AJt0AARVbml0cQB+AKF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCOeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB4dAAFUGxhaW5xAH4AR3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AnFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ag3NxAH4Am3QABUFycmF5cQB+AKF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Am3QABlN0cmluZ3NxAH4An3NxAH4AonVxAH4ApQAAAANzcQB+AKd0AARqYXZhc3EAfgCndAAEbGFuZ3EAfgCsc3EAfgB/dXEAfgDDAAAABHNxAH4Am3QAA0FwcHEAfgChc3EAfgCbdAALRGVsYXllZEluaXRxAH4AoXNxAH4Am3QABk9iamVjdHEAfgDHc3EAfgCbdAADQW55cQB+AKF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJNTHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPsSnsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCtmjIwvRw+iItemYdtgs67oOtCE
+external apis:
+0 items
+source infos:
+7 items
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\CsvReader.scala -> 
+AAAAAAAAAAA=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\dataLoad\Function.scala -> 
+AAAAAAAAAAA=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\TradeOperation.scala -> 
+AAAACAAAAQAAAA8AICAgICBjYXNlIG1heFAgPT4gcHJpbnRsbigic2VsbCIpAQAAATYBAAAACQEACSAgICAgICAgIAEAWUM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHNyY1xtYWluXHNjYWxhXERlYWxEYXRhXFRyYWRlT3BlcmF0aW9uLnNjYWxhAQBZQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3Rcc3JjXG1haW5cc2NhbGFcRGVhbERhdGFcVHJhZGVPcGVyYXRpb24uc2NhbGEArHBhdHRlcm5zIGFmdGVyIGEgdmFyaWFibGUgcGF0dGVybiBjYW5ub3QgbWF0Y2ggKFNMUyA4LjEuMSkKSWYgeW91IGludGVuZGVkIHRvIG1hdGNoIGFnYWluc3QgdmFsdWUgbWF4UCBpbiBjbGFzcyBUcmFkZU9wZXJhdGlvbiwgeW91IG11c3QgdXNlIGJhY2t0aWNrcywgbGlrZTogY2FzZSBgbWF4UGAgPT4BAAABAAAAEAAfICAgIGNhc2UgbWluUCA9PiBwcmludGxuKCJidXkiKQEAAAFmAQAAABgBABggICAgICAgICAgICAgICAgICAgICAgICABAFlDOlxVc2Vyc1xDaGFuZyBZdVxEcm9wYm94XFNjYWxhXEZpbmFsUHJvamVjdFxzcmNcbWFpblxzY2FsYVxEZWFsRGF0YVxUcmFkZU9wZXJhdGlvbi5zY2FsYQEAWUM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHNyY1xtYWluXHNjYWxhXERlYWxEYXRhXFRyYWRlT3BlcmF0aW9uLnNjYWxhAKx1bnJlYWNoYWJsZSBjb2RlIGR1ZSB0byB2YXJpYWJsZSBwYXR0ZXJuICdtYXhQJyBvbiBsaW5lIDE1CklmIHlvdSBpbnRlbmRlZCB0byBtYXRjaCBhZ2FpbnN0IHZhbHVlIG1pblAgaW4gY2xhc3MgVHJhZGVPcGVyYXRpb24sIHlvdSBtdXN0IHVzZSBiYWNrdGlja3MsIGxpa2U6IGNhc2UgYG1pblBgID0+AQAAAQAAABEAGyAgICBjYXNlIF8gID0+IHByaW50bG4oIi0iKQEAAAGEAQAAABYBABYgICAgICAgICAgICAgICAgICAgICAgAQBZQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3Rcc3JjXG1haW5cc2NhbGFcRGVhbERhdGFcVHJhZGVPcGVyYXRpb24uc2NhbGEBAFlDOlxVc2Vyc1xDaGFuZyBZdVxEcm9wYm94XFNjYWxhXEZpbmFsUHJvamVjdFxzcmNcbWFpblxzY2FsYVxEZWFsRGF0YVxUcmFkZU9wZXJhdGlvbi5zY2FsYQA6dW5yZWFjaGFibGUgY29kZSBkdWUgdG8gdmFyaWFibGUgcGF0dGVybiAnbWF4UCcgb24gbGluZSAxNQEAAAEAAAAQAB8gICAgY2FzZSBtaW5QID0+IHByaW50bG4oImJ1eSIpAQAAAWYBAAAAGAEAGCAgICAgICAgICAgICAgICAgICAgICAgIAEAWUM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHNyY1xtYWluXHNjYWxhXERlYWxEYXRhXFRyYWRlT3BlcmF0aW9uLnNjYWxhAQBZQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3Rcc3JjXG1haW5cc2NhbGFcRGVhbERhdGFcVHJhZGVPcGVyYXRpb24uc2NhbGEAEHVucmVhY2hhYmxlIGNvZGUBAAABAAAADwAgICAgIGNhc2UgbWF4UCA9PiBwcmludGxuKCJzZWxsIikBAAABNgEAAAAJAQAJICAgICAgICAgAQBZQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3Rcc3JjXG1haW5cc2NhbGFcRGVhbERhdGFcVHJhZGVPcGVyYXRpb24uc2NhbGEBAFlDOlxVc2Vyc1xDaGFuZyBZdVxEcm9wYm94XFNjYWxhXEZpbmFsUHJvamVjdFxzcmNcbWFpblxzY2FsYVxEZWFsRGF0YVxUcmFkZU9wZXJhdGlvbi5zY2FsYQCscGF0dGVybnMgYWZ0ZXIgYSB2YXJpYWJsZSBwYXR0ZXJuIGNhbm5vdCBtYXRjaCAoU0xTIDguMS4xKQpJZiB5b3UgaW50ZW5kZWQgdG8gbWF0Y2ggYWdhaW5zdCB2YWx1ZSBtYXhQIGluIGNsYXNzIFRyYWRlT3BlcmF0aW9uLCB5b3UgbXVzdCB1c2UgYmFja3RpY2tzLCBsaWtlOiBjYXNlIGBtYXhQYCA9PgEAAAEAAAAQAB8gICAgY2FzZSBtaW5QID0+IHByaW50bG4oImJ1eSIpAQAAAWYBAAAAGAEAGCAgICAgICAgICAgICAgICAgICAgICAgIAEAWUM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHNyY1xtYWluXHNjYWxhXERlYWxEYXRhXFRyYWRlT3BlcmF0aW9uLnNjYWxhAQBZQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3Rcc3JjXG1haW5cc2NhbGFcRGVhbERhdGFcVHJhZGVPcGVyYXRpb24uc2NhbGEArHVucmVhY2hhYmxlIGNvZGUgZHVlIHRvIHZhcmlhYmxlIHBhdHRlcm4gJ21heFAnIG9uIGxpbmUgMTUKSWYgeW91IGludGVuZGVkIHRvIG1hdGNoIGFnYWluc3QgdmFsdWUgbWluUCBpbiBjbGFzcyBUcmFkZU9wZXJhdGlvbiwgeW91IG11c3QgdXNlIGJhY2t0aWNrcywgbGlrZTogY2FzZSBgbWluUGAgPT4BAAABAAAAEQAbICAgIGNhc2UgXyAgPT4gcHJpbnRsbigiLSIpAQAAAYQBAAAAFgEAFiAgICAgICAgICAgICAgICAgICAgICABAFlDOlxVc2Vyc1xDaGFuZyBZdVxEcm9wYm94XFNjYWxhXEZpbmFsUHJvamVjdFxzcmNcbWFpblxzY2FsYVxEZWFsRGF0YVxUcmFkZU9wZXJhdGlvbi5zY2FsYQEAWUM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHNyY1xtYWluXHNjYWxhXERlYWxEYXRhXFRyYWRlT3BlcmF0aW9uLnNjYWxhADp1bnJlYWNoYWJsZSBjb2RlIGR1ZSB0byB2YXJpYWJsZSBwYXR0ZXJuICdtYXhQJyBvbiBsaW5lIDE1AQAAAQAAABAAHyAgICBjYXNlIG1pblAgPT4gcHJpbnRsbigiYnV5IikBAAABZgEAAAAYAQAYICAgICAgICAgICAgICAgICAgICAgICAgAQBZQzpcVXNlcnNcQ2hhbmcgWXVcRHJvcGJveFxTY2FsYVxGaW5hbFByb2plY3Rcc3JjXG1haW5cc2NhbGFcRGVhbERhdGFcVHJhZGVPcGVyYXRpb24uc2NhbGEBAFlDOlxVc2Vyc1xDaGFuZyBZdVxEcm9wYm94XFNjYWxhXEZpbmFsUHJvamVjdFxzcmNcbWFpblxzY2FsYVxEZWFsRGF0YVxUcmFkZU9wZXJhdGlvbi5zY2FsYQAQdW5yZWFjaGFibGUgY29kZQEAAAAA
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\DealData\Transaction.scala -> 
+AAAAAAAAAAA=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlDT.scala -> 
+AAAAAAAAAAA=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mlRF.scala -> 
+AAAAAAAAAAA=
+C:\Users\Chang Yu\Dropbox\Scala\FinalProject\src\main\scala\ML\mysecifiy.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPsSnsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXENoYW5nIFl1XERyb3Bib3hcU2NhbGFcRmluYWxQcm9qZWN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

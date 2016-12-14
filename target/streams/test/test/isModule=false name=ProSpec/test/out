@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mProSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mmaxmin[0m[0m
+[0m[[0minfo[0m] [0m[32m- should success in finding maximum for List(8.6052, 8.52, 8.094, 8.52, 8.6904)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should success in finding maximum for List(5.20, 5.20, 5.20, 5.20, 5.20)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should success in finding minimum List(8.6052, 8.52, 8.094, 8.52, 8.6904)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should success in finding minimum for List(5.20, 5.20, 5.20, 5.20, 5.20)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should success in finding rate List(8.6052, 8.52, 8.094, 8.52, 8.6904)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should success in finding rate for List(5.20, 5.20, 5.20, 5.20, 5.20)[0m[0m
+[0m[[0minfo[0m] [0m[32mTransaction[0m[0m
+[0m[[0minfo[0m] [0m[32m- should success in fiding the length of result file[0m[0m

@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mCsvReaderSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mdoubleCheck(Any(23.11))[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match case 23.11[0m[0m
+[0m[[0minfo[0m] [0m[32mconvertToArray(Seq[Any])[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match Array(1.2, 3.3, 4.9)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match Array(11.9,223.9,66.9,null)[0m[0m
